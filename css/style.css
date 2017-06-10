@@ -1,0 +1,50 @@
+/*
+wood brown: A89F68;
+army green: 41521F;
+*/
+body{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+
+}
+
+.first-section{
+	background-image: url(../img/portada.jpg);
+	height: 100vh;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.navbar-brand, .navbar-nav li a{
+	color: #FFF;
+	font-weight: bold;
+}
+
+.navbar-toggle .icon-bar{
+	background-color: #757070;
+}
+
+.navbar-toggle {
+	border: 1px solid #FFF;
+}
+
+.textoSeccion1{
+    padding-top: 285px;
+    color: #FFF;
+}
+
+.btn{
+	background-color: #41521F;
+	font-weight: bold;
+}
+
+.second-section{
+	margin: 100px auto;
+	color: #757070;
+}
+
+.brown{
+	color: #A89F68;
+	font-weight: bold;
+}
