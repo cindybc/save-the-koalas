@@ -111,3 +111,14 @@ sub{
 .espacio{
 	margin-top: 50px;
 }
+
+footer{
+	background-color: #41521F;
+	color: #FFF;
+	padding: 80px;
+}
+
+.listaFooter li a{
+    color: #A89F68; 
+}
+
