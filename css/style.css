@@ -36,6 +36,7 @@ body{
 
 .btn{
 	background-color: #41521F;
+	color: #FFF;
 	font-weight: bold;
 }
 
@@ -46,5 +47,20 @@ body{
 
 .brown{
 	color: #A89F68;
+	font-weight: bold;
+}
+
+.third-section{
+	background-color: #A89F68; 
+	padding: 80px 0;
+	color: #FFF;
+}
+
+.cosita{
+	border: 10px solid #FFF;
+}
+
+.green{
+	color: #41521F;
 	font-weight: bold;
 }
