@@ -43,7 +43,7 @@ body{
 	font-weight: bold;
 }
 
-.second-section{
+.second-section, .five-section{
 	margin: 100px auto;
 	color: #757070;
 }
@@ -76,4 +76,11 @@ body{
 
 h2{
     font-weight: bold;
+}
+
+
+.fa{
+	padding-top: 30px;
+	color: #A89F68;
+	font-size: 80px; 
 }
